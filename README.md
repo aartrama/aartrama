@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aarthi Ramakrishnan
 - 👀 I’m interested in Bioinformatics and Machine Learning
 - 🌱 I’m currently learning advance Python skills
-- 💞️ I’m looking to collaborate on NGS data analysis projects
 - 📫 How to reach me - aarthir239@gmail.com
 
 <!---
